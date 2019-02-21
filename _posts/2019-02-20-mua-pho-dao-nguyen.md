@@ -4,7 +4,7 @@ title: Mưa
 subtitle: Phố Đào Nguyên
 bigimg: /img/2019-02-20-mua-pho-dao-nguyen-rain.jpg
 ---
-MƯA 
+<b>Mưa</b>
 
 Mưa, mưa rơi trên thềm vắng<br>
 Mưa trắng ngọn đồi xanh<br>
@@ -36,6 +36,8 @@ Thấy gì sau buổi mưa tuông<br>
 Nước sông lênh láng, chiều buông lạnh lùng!<br>
 (Trời trong mây tạnh, nỗi buồn bao la!)
 
+<i>
 Phố Đào Nguyên<br>
 Orlando, Florida - 2019
+</i>
 
