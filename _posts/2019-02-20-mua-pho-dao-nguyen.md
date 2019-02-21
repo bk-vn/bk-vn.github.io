@@ -34,7 +34,7 @@ Chuyện tình nắng sớm mưa chiều<br>
 Bến sông vắng khách, ngày hiu hiu buồn<br>
 Thấy gì sau buổi mưa tuông<br>
 Nước sông lênh láng, chiều buông lạnh lùng!<br>
-(Trời trong mây tạnh, nỗi buồn bao la!)
+(Trời quang mây tạnh, nỗi buồn bao la!)
 
 <i>
 Phố Đào Nguyên<br>
